@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+#main_canvas {
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+#score {
+    position: absolute;
+    left: 250px;
+    color: white;
+}
+
+/* canvas {
+    width: 800px;
+    height: 800px;
+} */
